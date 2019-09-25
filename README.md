@@ -8,3 +8,5 @@ Pagina Web Oficial de Frigorifico la Marranera
 * Se agrego el logo en formato [SVG]
 * Se elimino el boton de cambio de idioma y funciones de blog
 * Se elimino contenido de la documentación y archivos de prueba
+* Se Agrego imagenes
+* Se agrego el documento README.PDF que describe las entregas hechas al cliente
