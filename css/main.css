@@ -589,7 +589,7 @@ input[type='checkbox']+label:before {
   height: 22px;
   content: ' ';
   border-radius: 22px;
-  background-image: url("../img/ico/checked-transparent.svg");
+  background-image: url("../img/svg/calidad.svg");
   background-repeat: no-repeat;
   background-position: 4px 6px;
   -webkit-transition: background 0.2s;
@@ -1035,7 +1035,7 @@ body.dark textarea:-ms-input-placeholder {
 
 /* line 766, ../sass/cospo/_basic.scss */
 body.dark ul li:before {
-  background-image: url("../img/ico/dark/checked.svg");
+  background-image: url("../img/svg/calidad.svg");
 }
 
 /* line 770, ../sass/cospo/_basic.scss */
@@ -1051,7 +1051,7 @@ body.dark input[type='checkbox']+label:before {
 
 /* line 779, ../sass/cospo/_basic.scss */
 body.dark input[type='checkbox']:checked+label:before {
-  background-image: url("../img/ico/light/checked.svg");
+  background-image: url("../img/svg/calidad.svg");
 }
 
 /* line 783, ../sass/cospo/_basic.scss */
@@ -1216,7 +1216,7 @@ body.light textarea:-ms-input-placeholder {
 /* line 893, ../sass/cospo/_basic.scss */
 body:not(.light):not(.dark) ul li:before,
 body.light ul li:before {
-  background-image: url("../img/ico/light/checked.svg");
+  background-image: url("../img/svg/calidad.svg");
 }
 
 /* line 897, ../sass/cospo/_basic.scss */
@@ -1240,7 +1240,7 @@ body.light input[type='checkbox']+label:before {
 /* line 909, ../sass/cospo/_basic.scss */
 body:not(.light):not(.dark) input[type='checkbox']:checked+label:before,
 body.light input[type='checkbox']:checked+label:before {
-  background-image: url("../img/ico/dark/checked.svg");
+  background-image: url("../img/svg/calidad.svg");
 }
 
 /* line 913, ../sass/cospo/_basic.scss */
@@ -1531,16 +1531,16 @@ body.light table tbody td {
 
 /* line 1112, ../sass/cospo/_basic.scss */
 .bg-gradient-f16d63 {
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#da291c+0,ee3831+100 */
-  background: #da291c;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#A72B2A+0,ee3831+100 */
+  background: #A72B2A;
   /* Old browsers */
-  background: -moz-linear-gradient(top, #da291c 0%, #ee3831 100%);
+  background: -moz-linear-gradient(top, #A72B2A 0%, #A72B2A 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(top, #da291c 0%, #ee3831 100%);
+  background: -webkit-linear-gradient(top, #A72B2A 0%, #A72B2A 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom, #da291c 0%, #ee3831 100%);
+  background: linear-gradient(to bottom, #A72B2A 0%, #A72B2A 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#da291c', endColorstr='#ee3831', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#A72B2A', endColorstr='#A72B2A', GradientType=0);
   /* IE6-9 */
 }
 
@@ -3423,7 +3423,7 @@ section.ajax-page .gallery li a:after {
 /* line 559, ../sass/cospo/elements/_cospoGallery.scss */
 .loading:before {
   content: '';
-  background-image: url(../img/svg/loading.svg) !important;
+  background-image: url(../img/svg/logo.svg) !important;
   background-size: 60px 60px;
   position: absolute;
   top: 0% !important;
@@ -4973,7 +4973,7 @@ body.dark .navigation nav li a:hover {
 a[data-action='close-sub-menu'] {
   display: block;
   min-height: 2.428rem;
-  background-image: url("../img/svg/left-menu.svg");
+  background-image: url("../img/svg/menu.svg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: 50% 50%;
@@ -4981,7 +4981,7 @@ a[data-action='close-sub-menu'] {
 
 /* line 42, ../sass/cospo/elements/_navigation.scss */
 .light a[data-action='close-sub-menu'] {
-  background-image: url("../img/svg/left-menu-dark.svg");
+  background-image: url("../img/svg/menu.svg");
 }
 
 /* line 47, ../sass/cospo/elements/_navigation.scss */
@@ -5034,7 +5034,7 @@ button[data-action='show-widget-bottom']:before {
 
 /* line 89, ../sass/cospo/elements/_navigation.scss */
 button[data-action='show-widget-bottom']:after {
-  background-image: url("../img/ico/light/close.svg");
+  background-image: url("../img/svg/close.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 14px 15px;
@@ -5075,7 +5075,7 @@ button[data-action='show-widget-top']:before {
 
 /* line 126, ../sass/cospo/elements/_navigation.scss */
 button[data-action='show-widget-top']:after {
-  background-image: url("../img/ico/light/close.svg");
+  background-image: url("../img/svg/close.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 18px 18px;
@@ -5181,13 +5181,13 @@ button[type=submit]:hover:before {
 /* line 240, ../sass/cospo/elements/_navigation.scss */
 body.light .widget-newsletter button[type=submit]:before,
 body:not(.light):not(.dark) .widget-newsletter button[type=submit]:before {
-  background-image: url("../img/ico/dark/next.svg");
+  background-image: url("../img/svg/next.svg");
 }
 
 /* line 243, ../sass/cospo/elements/_navigation.scss */
 body.light .widget-newsletter button[type=submit]:before:hover,
 body:not(.light):not(.dark) .widget-newsletter button[type=submit]:before:hover {
-  background: url("../img/ico/dark/next.svg") center center no-repeat !important;
+  background: url("../img/svg/next.svg") center center no-repeat !important;
 }
 
 /* line 254, ../sass/cospo/elements/_navigation.scss */
@@ -5588,7 +5588,7 @@ body:not(.light):not(.dark) .navigation-btn[data-action='close-message']:before,
 body:not(.light):not(.dark) [data-action='close-message'].navigation-btn--show-message:before,
 body:not(.light):not(.dark) .navigation-btn[data-action='hide-map']:before,
 body:not(.light):not(.dark) [data-action='hide-map'].navigation-btn--show-message:before {
-  background-image: url("../img/ico/light/close.svg");
+  background-image: url("../img/svg/close.svg");
 }
 
 /* line 581, ../sass/cospo/elements/_navigation.scss */
@@ -5603,7 +5603,7 @@ body:not(.light):not(.dark) [data-action='show-menu'].navigation-btn--show-messa
   margin-left: -11px;
   margin-top: -8px;
   border-radius: 0;
-  background-image: url("../img/ico/light/menu.svg");
+  background-image: url("../img/svg/menu.svg");
 }
 
 /* line 596, ../sass/cospo/elements/_navigation.scss */
@@ -5645,7 +5645,7 @@ body.dark [data-action='hide-map'].navigation-btn--show-message:after {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../img/ico/dark/close.svg");
+  background-image: url("../img/svg/close.svg");
   background-size: 20px 20px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -5676,7 +5676,7 @@ body.dark [data-action='show-menu'].navigation-btn--show-message:before {
   margin-left: -11px;
   margin-top: -8px;
   border-radius: 0;
-  background-image: url("../img/ico/dark/menu.svg");
+  background-image: url("../img/svg/menu.svg");
 }
 
 @media (max-width: 991px) {
@@ -6890,7 +6890,7 @@ button[data-action="show-lang"]:before {
 
 /* line 1624, ../sass/cospo/elements/_navigation.scss */
 .navigation.open-top button[data-action="show-widget-top"]:before {
-  background-image: url("../img/ico/light/close.svg");
+  background-image: url("../img/svg/close.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 14px 15px;
@@ -6916,7 +6916,7 @@ button[data-action="show-lang"]:before {
 
 /* line 1648, ../sass/cospo/elements/_navigation.scss */
 .navigation.open-bottom button[data-action="show-widget-bottom"]:before {
-  background-image: url("../img/ico/light/close.svg");
+  background-image: url("../img/svg/close.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 14px 15px;
@@ -7756,7 +7756,7 @@ video {
   background-repeat: no-repeat !important;
   background-position: center center !important;
   border: 0 !important;
-  background-image: url("../img/ico/dark/close.svg");
+  background-image: url("../img/svg/close.svg");
   background-size: 17px 18px;
 }
 
@@ -9395,12 +9395,12 @@ body.light .cospo-twitter ul li a:hover {
 /* line 250, ../sass/cospo/elements/_full-image.scss */
 body .show-full-btn-left:before,
 body .show-full-btn-right:before {
-  background-image: url("../img/ico/dark/next.svg") !important;
+  background-image: url("../img/svg/next.svg") !important;
 }
 
 /* line 256, ../sass/cospo/elements/_full-image.scss */
 body .show-full-btn-close:before {
-  background-image: url("../img/ico/dark/close.svg") !important;
+  background-image: url("../img/svg/close.svg") !important;
 }
 
 /* line 262, ../sass/cospo/elements/_full-image.scss */
@@ -9431,7 +9431,7 @@ body .show-full-btn-close:before {
   -webkit-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
   opacity: 0;
-  background-image: url("../img/svg/big-photo.svg");
+  background-image: url("../img/svg/logo.svg");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 100% 100%;
@@ -9800,7 +9800,7 @@ body .ui-datepicker-year {
 /* line 145, ../sass/cospo/elements/_calendar.scss */
 body.light .ui-datepicker .ui-datepicker-next,
 body.light .ui-datepicker .ui-datepicker-prev {
-  background: url("../img/ico/dark/next.svg") no-repeat scroll center right transparent;
+  background: url("../img/svg/next.svg") no-repeat scroll center right transparent;
 }
 
 /* line 149, ../sass/cospo/elements/_calendar.scss */
@@ -10486,7 +10486,7 @@ body.personal-girl .main-overlay {
 
 /* line 23, ../sass/cospo/demos/_personal-girl.scss */
 body.personal-girl .sign-in-page {
-  background-image: url("../img/login/girl.jpg");
+  background-image: url("../img/1080x1080.png");
   background-size: cover;
   background-repeat: no-repeat;
 }

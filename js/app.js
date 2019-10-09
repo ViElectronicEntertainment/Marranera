@@ -486,9 +486,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		console.error('Accordeon problem: ' + e);
 	}
 
-	/**
-  * Google Map
-  */
+	/** Google Maps **/
+
 	try {
 		var gMap = document.querySelector('.map');
 		googleMap = new GoogleMap(gMap);
