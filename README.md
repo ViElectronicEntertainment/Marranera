@@ -2,7 +2,17 @@
 
 Pagina Web Oficial de Frigorifico la Marranera
 
-## Cambios de la version 0.0.3
+## 0.0.4
+
+* Para la version que hemos llamado LittlePig:
+* Agregamos contenido multimedia
+* Agregamos las paginas ["Laguna de Oxidación", "Digestor de Desechos Orgánicos", "Planta de tratamiento de Agua", "Plantas de Tratamiento Compactas", "Represas para erecolección de aguas lluvias", "Centro de Acopio Residuos Solidos"]
+* Solucionados problemas conocidos
+* Se organizo mejor la ruta de trabajo
+* Se la carpeta video
+* Se actualizo el Favicon
+
+## 0.0.3
 
 * Para la version que hemos llamado Bones
 * Hemos agregado contenido audiovisual a la pagina web
@@ -10,7 +20,7 @@ Pagina Web Oficial de Frigorifico la Marranera
 * Eliminado la carpeta Old
 * Mapa
 
-## Cambios de la version 0.0.2
+## 0.0.2
 
 * Para la version que hemos llamado Exodo, hemos adaptado los estilos
 * Se agrego el logo en formato [SVG]
