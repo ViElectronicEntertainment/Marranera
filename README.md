@@ -2,6 +2,15 @@
 
 Pagina Web Oficial de Frigorifico la Marranera
 
+## 0.0.5
+
+* Esta es la version preliminar
+* Se elimino contenido que no se usa
+* Se Aplico el manual de imagen y estilo corporativo
+* Solucionados problemas conocidos y links caidos
+* Se mejoro el puntaje SEO
+* Nueva organiacion de carpetas mucho mas limpias
+
 ## 0.0.4
 
 * Para la version que hemos llamado LittlePig:
