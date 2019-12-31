@@ -47,7 +47,7 @@
                     <a href="#productos">Productos</a>
                   </li>
                   <li>
-                    <a href="#contact">Contacto</a>
+                    <a href="#contacto">Contacto</a>
                   </li>
                 </ul>
               </div>
@@ -316,7 +316,7 @@
             </div>
           </div>
           <!-- Carne de Cerdo en Canal post -->
-          <div class="content row blog-post" data-action="show-post" data-src="personal-girl/blog/photo-post">
+          <div class="content row blog-post" data-action="show-post" data-src="marranera/cerdocanal">
             <img src="img/1920x1080.png" class="blog-post-bg" alt="" />
             <header>
               <div class="restaurant-home-icons">
@@ -368,7 +368,7 @@
     </section>
     <!-- END BLOG PAGE -->
     <!-- CONTACT PAGE -->
-    <section class="cospo-page" id="contact">
+    <section class="cospo-page" id="contacto">
       <div class="background">
         <img src="img/4.jpg" alt="">
       </div>

@@ -2,6 +2,13 @@
 
 Pagina Web Oficial de Frigorifico la Marranera
 
+## 0.0.6
+* Esta version es de limpieza del proyecto, para reducir tamaño y optimizar tiempos de carga de la pagina, tambien se desarrollan las bases para expandir el proyecto
+* Se elimino la carpeta /ajax/personal-girl
+* Se elimino la carpeta PHP
+* Se convirtio el proyecto a PHP
+* Se Instalo Composer, se agregio la dependendia: - PHPMailer
+
 ## 0.0.5
 
 * Esta es la version preliminar
