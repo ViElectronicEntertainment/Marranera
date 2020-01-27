@@ -2,7 +2,7 @@
 
 Pagina Web Oficial de Frigorifico la Marranera
 
-## 0.0.7
+## 0.0.7a
 
 * Se crea la ruta /recursos para alojar recursos graficos en alta calidad descargables desde internet
 * Se limpia y optimiza el repositorio
