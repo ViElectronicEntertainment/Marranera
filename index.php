@@ -76,7 +76,7 @@
     <section class="cospo-page home-page no-bg" id="home">
       <div class="background bg-gradient-f16d63"></div>
       <div class="home-page-logo">
-        <a href="http://frigorificolamarranera.com/">
+        <a href="https://frigorificolamarranera.com/">
           <img src="img/svg/logo2.svg" alt="">
         </a>
       </div>
@@ -86,6 +86,8 @@
             <div class="content-center">
               <div>
                 <div class="col-md-6">
+                  <br />
+                  <br />
                   <p class="home-page-p">Frigorifico</p>
                   <h1>La Marranera</h1>
                   <div class="restaurant-home-icons">
@@ -100,7 +102,7 @@
         </div>
       </div>
       <footer class="home-page-footer">
-        © Frigorifico La Marranera, 2019.
+        © Frigorifico La Marranera, 2020.
       </footer>
     </section>
     <!-- END HOME PAGE -->

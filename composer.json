@@ -1,9 +1,0 @@
-{
-    "name": "velosergio/marranera",
-    "license": "MIT",
-    "type": "project",
-    "description": "Pagina Oficial del Frigorifico La Marranera",
-    "require": {
-        "phpmailer/phpmailer": "~6.1"
-    }
-}

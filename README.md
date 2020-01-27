@@ -2,7 +2,15 @@
 
 Pagina Web Oficial de Frigorifico la Marranera
 
+## 0.0.7
+
+* Se crea la ruta /recursos para alojar recursos graficos en alta calidad descargables desde internet
+* Se limpia y optimiza el repositorio
+* Se suben plantillas y contenido descargable
+* Se corrigen errores conocidos
+
 ## 0.0.6
+
 * Esta version es de limpieza del proyecto, para reducir tamaño y optimizar tiempos de carga de la pagina, tambien se desarrollan las bases para expandir el proyecto
 * Se elimino la carpeta /ajax/personal-girl
 * Se elimino la carpeta PHP
